@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "HTTrack Website Copier/3.0x (offline browser; web mirror utility)" -%F "" -%l "en, *" https://marklenser.com/5e/index -O1 "C:\My Web Sites\Test 3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://marklenser.com/5e/index* +*https://marklenser.com/5e/index*
+File generated automatically on Tue, 01 Jan 2019 21:49:31, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

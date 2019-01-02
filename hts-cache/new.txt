@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:49:32	3053/3053	---M-Z	200	added ('OK')	text/html	etag:%2263191efcdff2644c76c4f65334c79f6e-ssl-df%22	https://marklenser.com/5e/index	C:/My%20Web%20Sites/Test%203/marklenser.com/5e/index.html	(from )
+21:49:32	1616/1616	---M-Z	200	added ('OK')	text/html	etag:%2263191efcdff2644c76c4f65334c79f6e-ssl-df%22	https://marklenser.com/robots.txt		(from )
+21:49:32	3081/3081	---M-Z	200	added ('OK')	text/css	etag:%22f0b63cabc964e9b1720ad3e021f67ab1-ssl-df%22	https://marklenser.com/static/css/16.5f64168d.chunk.css	C:/My%20Web%20Sites/Test%203/marklenser.com/static/css/16.5f64168d.chunk.css	(from https://marklenser.com/5e/index)
+21:49:33	335191/335191	---M-Z	200	added ('OK')	application/javascript	etag:%22ab46c33daed1ec81a5a65e5f0e7408f9-ssl-df%22	https://marklenser.com/static/js/16.86025a81.chunk.js	C:/My%20Web%20Sites/Test%203/marklenser.com/static/js/16.86025a81.chunk.js	(from https://marklenser.com/5e/index)
+21:49:33	6243/6243	---M-Z	200	added ('OK')	application/javascript	etag:%22029f0b5f8bc7163a9c18314fbcb54146-ssl-df%22	https://marklenser.com/static/js/main.5b2aa13e.chunk.js	C:/My%20Web%20Sites/Test%203/marklenser.com/static/js/main.5b2aa13e.chunk.js	(from https://marklenser.com/5e/index)
